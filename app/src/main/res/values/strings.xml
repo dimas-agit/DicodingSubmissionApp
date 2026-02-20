@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DicodingSubmissionApp</string>
+    <string name="title">Dicoding Event</string>
+    <string name="recomendation">Recomendation event for you!</string>
 </resources>
