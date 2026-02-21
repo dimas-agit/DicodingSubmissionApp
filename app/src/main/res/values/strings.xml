@@ -2,4 +2,16 @@
     <string name="app_name">DicodingSubmissionApp</string>
     <string name="title">Dicoding Event</string>
     <string name="recomendation">Recomendation event for you!</string>
+    <string name="open_registration_link">Open Registration Link</string>
+    <string name="image_cover">TODO</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="search_events">Search events…</string>
+    <string name="todo">TODO</string>
+    <string name="waktu_amp_sisa_kuota"><![CDATA[Waktu & Sisa Kuota]]></string>
+    <string name="deskripsi_event">Deskripsi Event</string>
+    <string name="registrasi_sekarang">Registrasi Sekarang</string>
 </resources>
